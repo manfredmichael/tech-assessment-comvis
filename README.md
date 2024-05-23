@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://p2.hiclipart.com/preview/36/149/169/surgical-mask-medical-mask-face-mask-line-logo-symbol-png-clipart.jpg" alt="drawing" width="200"/>
+<img src="https://i.pinimg.com/736x/ab/b0/dd/abb0dd40b441bdca723bc5ac5421f310.jpg" alt="drawing" width="200"/>
   
 <br/>
 <br/>
