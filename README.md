@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-# Ambulance & Trucks Detection
+# Improper Mask Wearing Detection
 Technical Assessment Submission
 </div>
 
