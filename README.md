@@ -12,7 +12,7 @@ Technical Assessment Submission
 * Live Demo Interface: https://huggingface.co/spaces/manfredmichael/mask-detection-manfred 
 * Solution: https://docs.google.com/document/d/1TdbJ3y4gS5lxr1HoQt-tcgtuxmxhKO0_PO6N5ix6e5c/edit?usp=sharing
 * Training Report: https://api.wandb.ai/links/anakbangkit/42t0ym8p
-* 
+
 # How to run yourself
 
 ### Install
